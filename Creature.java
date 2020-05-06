@@ -28,10 +28,19 @@ public class Creature{
         return dmg + 1;
     }
     
+    public void takeDamage(int dmg){
+        hp -= dmg;
+    }
+    
     public boolean isAlive(){
         if(hp > 0)
             return true;
         else
             return false;
+    }
+    
+    public String getHp(){
+        String HP = "" + hp;
+        return HP;
     }
 }

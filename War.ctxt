@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=War
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ War\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Army1\ Army2
+comment1.target=War(int,\ int)
+comment2.params=numSoldiers
+comment2.target=void\ createArmy1(int)
+comment3.params=numSoldiers
+comment3.target=void\ createArmy2(int)
+comment4.params=
+comment4.target=void\ fight()
+numComments=5

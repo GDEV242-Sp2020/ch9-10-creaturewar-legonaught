@@ -6,10 +6,10 @@
  * @version (a version number or a date)
  */
 public class Demon extends Creature{
-    private static final int maxHp = 100;
-    private static final int minHp = 50;
-    private static final int maxStr = 75;
-    private static final int minStr = 25;
+    private static final int maxHp = 50;
+    private static final int minHp = 20;
+    private static final int maxStr = 20;
+    private static final int minStr = 15;
 
     public Demon(){
         super(
